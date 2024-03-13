@@ -1,0 +1,14 @@
+.bar{
+    width: 40% ;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-weight: 500;
+}
